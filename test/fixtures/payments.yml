@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  success: false
+  product: one
+  pay_method: one
+
+two:
+  success: false
+  product: two
+  pay_method: two
